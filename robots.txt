@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /dark/
+
+Sitemap: https://fedotov1963-ux.github.io/decor-studio/sitemap.xml
